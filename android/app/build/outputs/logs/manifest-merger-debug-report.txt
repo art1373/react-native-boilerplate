@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [hermes-debug.aar] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9d39634f2ce2c8a0b81992099c3d5251/jetified-hermes-debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-gesture-handler] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/1bfb39249ed9f078e583615ddce52bb2/jetified-react-native-0.61.5/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/01a13aec79aa97e2571f76f0b5ed50e3/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/26a99a8b8181ae980b87e3eb8abe8de0/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/a342ae548e37c741cd1f76fece6a4c69/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4010ab05a47b5d89c36c5f5f74830e76/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/216be2c159542640560ac43fab9b672e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/d16bc1329561f02034cb3488183beff4/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/5aba1f31278af43d1e0a80b7d1bf93c4/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/acdb7b6dc764d7cd9d6ef8b12ed471ba/jetified-soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9b843ef8b45a09e63c481ebf2cc33a53/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6717db496960c1c7b35016a3f8d2ed52/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6cac2e40aaad7d17efd78ef41d825d1b/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ff59044580d01fecc332d9e4ab42553a/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ba130429194fcaadaa2d9343029d47ed/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bf9fe2c920747fc8887d65d599c47d6a/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/cfb35286f1f1bc3e2a27eb826e35e1e0/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/76ad8784f7775ee085a507499a94a7b5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4f5d76a0bab1f8f190523edd3e5489e3/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b42a536ebf513f3936a66975b947a3a/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b280e712fa64b7564c60c94f2d493e6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/1bfb39249ed9f078e583615ddce52bb2/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/1bfb39249ed9f078e583615ddce52bb2/jetified-react-native-0.61.5/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/acdb7b6dc764d7cd9d6ef8b12ed471ba/jetified-soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/acdb7b6dc764d7cd9d6ef8b12ed471ba/jetified-soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.questap.MainActivity
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-debug.aar] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9d39634f2ce2c8a0b81992099c3d5251/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [hermes-debug.aar] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9d39634f2ce2c8a0b81992099c3d5251/jetified-hermes-debug/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-gesture-handler] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/alirezatk/projects/react-native-boilerplate/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/1bfb39249ed9f078e583615ddce52bb2/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/1bfb39249ed9f078e583615ddce52bb2/jetified-react-native-0.61.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/081958b85be993b26123dd5b1125e07f/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c2c5fa787d66aaf40578b3071f4d283f/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/01a13aec79aa97e2571f76f0b5ed50e3/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/01a13aec79aa97e2571f76f0b5ed50e3/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/26a99a8b8181ae980b87e3eb8abe8de0/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/26a99a8b8181ae980b87e3eb8abe8de0/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/a342ae548e37c741cd1f76fece6a4c69/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/a342ae548e37c741cd1f76fece6a4c69/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4010ab05a47b5d89c36c5f5f74830e76/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4010ab05a47b5d89c36c5f5f74830e76/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/216be2c159542640560ac43fab9b672e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/216be2c159542640560ac43fab9b672e/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/d16bc1329561f02034cb3488183beff4/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/d16bc1329561f02034cb3488183beff4/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/5aba1f31278af43d1e0a80b7d1bf93c4/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/5aba1f31278af43d1e0a80b7d1bf93c4/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/acdb7b6dc764d7cd9d6ef8b12ed471ba/jetified-soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/acdb7b6dc764d7cd9d6ef8b12ed471ba/jetified-soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9b843ef8b45a09e63c481ebf2cc33a53/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/9b843ef8b45a09e63c481ebf2cc33a53/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6717db496960c1c7b35016a3f8d2ed52/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6717db496960c1c7b35016a3f8d2ed52/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6cac2e40aaad7d17efd78ef41d825d1b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/6cac2e40aaad7d17efd78ef41d825d1b/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/39b4f59a835527a351392d1b387458e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ff59044580d01fecc332d9e4ab42553a/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ff59044580d01fecc332d9e4ab42553a/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/7c534088c709ef4f962350c99f0510e9/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/385ad0333dd34005ac3b322f68c176b9/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/32e32c376d22cae962a95f2aba892822/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c3d8ec33b66c793058ded980a54c4fd5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ba130429194fcaadaa2d9343029d47ed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ba130429194fcaadaa2d9343029d47ed/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bf9fe2c920747fc8887d65d599c47d6a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bf9fe2c920747fc8887d65d599c47d6a/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/e968a555a0e08b03627a3441cae31e6b/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/cfb35286f1f1bc3e2a27eb826e35e1e0/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/cfb35286f1f1bc3e2a27eb826e35e1e0/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3cf213e33fb5a76421a4e937ff33f07e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/bde687302d742df89f7d227a2e48b0d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/03736cf4bc3669a69d502627b70a527e/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/28174e475fcfd6ae966ed5772f6694ac/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3c1a5ebf565097fe10667d6b9a2c1703/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/76ad8784f7775ee085a507499a94a7b5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/76ad8784f7775ee085a507499a94a7b5/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4f5d76a0bab1f8f190523edd3e5489e3/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/4f5d76a0bab1f8f190523edd3e5489e3/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3e5d045fdd42de39d437ce94a2ff87c7/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/c53a1cf06eec9ec8e2c1fa79d76edf7f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b42a536ebf513f3936a66975b947a3a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b42a536ebf513f3936a66975b947a3a/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/8a52da53b02a83b08615debb9b2e109c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/ed8cc0ac00b11c0234ef1e5a578c70c1/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b280e712fa64b7564c60c94f2d493e6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/3b280e712fa64b7564c60c94f2d493e6/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/alirezatk/.gradle/caches/transforms-2/files-2.1/de7b0c2f4705e3cb372b76d33c6f36f6/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/alirezatk/projects/react-native-boilerplate/android/app/src/debug/AndroidManifest.xml:5:22-75
