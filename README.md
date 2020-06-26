@@ -1,3 +1,5 @@
+### This a Modified Version with new android build tools 4.0 and gradlew wrapper 6.1.1
+- next stop : upgrade to rn 0.62 && React 16.11+ and rn navigation ver 5
 <div align="center">
     <img src="App/Assets/Images/TOM-Legend.png" alt="Logo" width="100%">
 </div>
